@@ -1,8 +1,8 @@
 [tool.poetry]
-name = "fcc-demographic-data-analyzer"
+name = "data_analysis_with_python"
 version = "0.1.0"
 description = ""
-authors = ["Your Name <you@example.com>"]
+authors = ["Theresa M"]
 
 [tool.poetry.dependencies]
 python = "^3.8"
